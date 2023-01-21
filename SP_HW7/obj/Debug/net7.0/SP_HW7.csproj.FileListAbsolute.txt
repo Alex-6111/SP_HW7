@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SP_HW7\bin\Debug\net7.0\SP_HW7.exe
+C:\Users\Admin\source\repos\SP_HW7\bin\Debug\net7.0\SP_HW7.deps.json
+C:\Users\Admin\source\repos\SP_HW7\bin\Debug\net7.0\SP_HW7.runtimeconfig.json
+C:\Users\Admin\source\repos\SP_HW7\bin\Debug\net7.0\SP_HW7.dll
+C:\Users\Admin\source\repos\SP_HW7\bin\Debug\net7.0\SP_HW7.pdb
+C:\Users\Admin\source\repos\SP_HW7\obj\Debug\net7.0\SP_HW7.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SP_HW7\obj\Debug\net7.0\SP_HW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SP_HW7\obj\Debug\net7.0\SP_HW7.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SP_HW7\obj\Debug\net7.0\SP_HW7.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SP_HW7\obj\Debug\net7.0\SP_HW7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SP_HW7\obj\Debug\net7.0\SP_HW7.dll
+C:\Users\Admin\source\repos\SP_HW7\obj\Debug\net7.0\refint\SP_HW7.dll
+C:\Users\Admin\source\repos\SP_HW7\obj\Debug\net7.0\SP_HW7.pdb
+C:\Users\Admin\source\repos\SP_HW7\obj\Debug\net7.0\SP_HW7.genruntimeconfig.cache
+C:\Users\Admin\source\repos\SP_HW7\obj\Debug\net7.0\ref\SP_HW7.dll
